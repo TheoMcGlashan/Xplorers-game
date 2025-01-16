@@ -3,16 +3,23 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-    GameObject mainMenu;
-    public void Start() {
-        
+    public GameObject mainMenu;
+    public GameObject optionsMenu;
+
+    public void Start() 
+    {
+        mainMenu.SetActive(true);
+        optionsMenu.SetActive(false);
     }
 
-    public void PlayGame() {
+    public void PlayGame() 
+    {
+        Debug.Log("check");
         SceneManager.LoadScene("GameScene");
     }
 
-    public void QuitGame() {
+    public void QuitGame() 
+    {
         Application.Quit();
     }
 }
