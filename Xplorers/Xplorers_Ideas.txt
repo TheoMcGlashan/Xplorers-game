@@ -1,0 +1,12 @@
+Core game ideas:
+
+You start in a space ship at a home base in the center of four regions of space.
+Mechanically, the four regions are four paths that you can go down. The paths are nonlinear, similar to slay the spire.
+In universe, you are traveling further into the regions as you draw through the deck.
+There is potentially a total turn limit, after which you must fight evil overlord mushroom man.
+
+
+
+Need to balance going back to the ship to resupply and heal:
+ In universe, if you discover natural resources, you can use that to convince the company that sent you here to spend more resources on your expedition.
+ Mechanically, every time you draw a card from one of the region decks, there will be a reward after you beat the card encounter. 
